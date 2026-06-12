@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+
+# Project data
+cache/
+F1_Analytics_Plots/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
